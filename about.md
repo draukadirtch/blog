@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am an IT enthusiast who enjoys the work I do and am finding ways to expand on that to truely love my work. Some might call me crazy, but I will make this work, no matter the path and time it takes.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm a gamer at heart and became a script kiddie/sudo programmer by need.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[DirtchK](mailto:dirtchk@gmail.com)
